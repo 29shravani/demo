@@ -59,7 +59,7 @@
     </dependencies>
 
     <build>
-        <sourceDirectory>${src.dir}</sourceDirectory>
+        <sourceDirectory>jsrc/main/java</sourceDirectory>
         <resources>
             <resource>
                 <directory>${resources.dir}</directory>
